@@ -18,6 +18,7 @@ To run this project, simply compile and run the TicTacToe.java file.
 
 ## Status
 I do not plan on coming back to this.
+
 However, this project could be improved with refactoring and implementing a GUI.
 
 ## Source / Inspiration
