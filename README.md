@@ -17,9 +17,8 @@ This project uses:
 To run this project, simply compile and run the TicTacToe.java file.
 
 ## Status
-This project mostly complete.
-I plan on refactoring the code.
-In the future, I may create a GUI for this project.
+I do not plan on coming back to this.
+However, this project could be improved with refactoring and implementing a GUI.
 
 ## Source / Inspiration
 This project is inspired by this tutorial: https://youtu.be/gQb3dE-y1S4
